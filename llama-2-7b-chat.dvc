@@ -1,0 +1,5 @@
+outs:
+- md5: 3b8e50c789f3b12896d520de9b7e4f1a.dir
+  size: 13476925365
+  nfiles: 3
+  path: llama-2-7b-chat
